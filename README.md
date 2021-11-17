@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BKR779
-- 👀 I’m interested in developing programig
-- 🌱 I’m currently learning c# with unity
+- 👀 I’m interested in games developing
+- 🌱 I’m currently learning unity engine right now
 - 💞️ I’m looking to collaborate on unity engine
 - 📫 How to reach me zabobaker7355@gmail.com
 
