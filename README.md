@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BKR779
-- 👀 I’m interested in games developing
-- 🌱 I’m currently learning unity engine right now
-- 💞️ I’m looking to collaborate on unity engine
+- 👀 I’m interested in games developing, Web developing and Machine Learning 
+- 🌱 I’m currently learning Web developing
+- 💞️ I’m looking to Be one of the best programming engineers in the world
 - 📫 How to reach me zabobaker7355@gmail.com
 
 <!---
